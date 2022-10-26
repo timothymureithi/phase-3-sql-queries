@@ -1,0 +1,1 @@
+INSERT INTO dogs (name) VALUES ("Clifford");
